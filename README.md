@@ -1,5 +1,7 @@
 # VERT Analytics — versão acadêmica
 
+**[Acessar apresentação online e experimentar o VERT AI](https://gabrielpereira-03.github.io/VERT-Analytics-Site/)**
+
 Protótipo de gestão de SLA em Python e Streamlit. Dados integralmente fictícios e clientes anonimizados. Sem banco corporativo, autenticação corporativa ou API externa de IA.
 
 ## Executar
