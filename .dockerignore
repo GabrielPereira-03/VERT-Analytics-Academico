@@ -1,0 +1,7 @@
+*
+!Dockerfile.demo
+!requirements.txt
+!demo_v3/
+!demo_v3/**
+!sla_core/
+!sla_core/engine.py
