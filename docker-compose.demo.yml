@@ -1,0 +1,10 @@
+services:
+  sla-demo:
+    build:
+      context: .
+      dockerfile: Dockerfile.demo
+    ports:
+      - "127.0.0.1:8502:8502"
+    environment:
+      TZ: America/Sao_Paulo
+    restart: unless-stopped
